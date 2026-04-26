@@ -19,7 +19,7 @@ Make sure to double-check the address before sending any funds.
 🚀 Let’s get started and have a great experience!"""
 )
 
-app = ApplicationBuilder().token("AAFdu4ZYLISLPERP16pRjFHe68oTCaJg6tk").build()
+app = ApplicationBuilder().token("8044397547:AAFdu4ZYLISLPERP16pRjFHe68oTCaJg6tk").build()
 app.add_handler(CommandHandler("start", start))
 
 app.run_polling()
