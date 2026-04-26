@@ -14,7 +14,7 @@ Please remember that all deposits must be made only to the following BEP20-USDT 
 
 Make sure to double-check the address before sending any funds.
 
-🚀 Let’s get started and have a great experience!"""
+🚀 Let’s get started and have a great experience!""" )
 
 app = ApplicationBuilder().token("8044397547:AAF9b7AHR-GNOsJJfPFvN4u7HDlaOg_295o").build()
 app.add_handler(CommandHandler("start", start))
