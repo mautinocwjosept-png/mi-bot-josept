@@ -8,7 +8,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 We’re glad to have you here. This is your gateway to a smooth and simple experience. Explore, interact, and enjoy everything we’ve prepared for you.
 
-💡 Important Notice:
+💡 Important Notice 💸:
 Please remember that all deposits must be made only to the following address:
 
 💸 BEP20-USDT 💸
