@@ -7,7 +7,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
         caption="Hola 👋 Bienvenido"
     )
 
-app = ApplicationBuilder().token("8044397547:AAHC3MHLePxuCYsonnZEaJcvpjthheGIsV4").build()
+app = ApplicationBuilder().token("8044397547:AAF9b7AHR-GNOsJJfPFvN4u7HDlaOg_295o").build()
 app.add_handler(CommandHandler("start", start))
 
 app.run_polling()
