@@ -3,7 +3,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_photo(
-        photo="https://i.imgur.com/yKMIKbA.jpeg",
+        photo="https://i.postimg.cc/VNcW0rYM/Tabu.jpg",
         caption="Hola 👋 Bienvenido"
     )
 
